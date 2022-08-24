@@ -1,0 +1,4 @@
+- 👋 Hej, jestem Watson.
+- 👀 Aktualnie tworze bota
+- 🌱 Umiem BDScript
+- 💞️ singiel, chłopak
