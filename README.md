@@ -1,4 +1,12 @@
-- 👋 Hej, jestem Watson.
-- 👀 Aktualnie tworze bota
-- 🌱 Umiem BDScript
-- 💞️ singiel, chłopak
+- minecraft bedwars player
+  - craftplay > kokscraft
+  - tnt rush & luckyblock bw my beloved
+  - fav packs & clients: salwyrr, batmod
+- football enjoyer
+  - fav teams: Raków, Leverkusen, Barca
+  - fav national team: Poland
+  - fav players: Ivan Lopez, Vladan Kovacevic, Cristiano Ronaldo (i know i'm crazy)
+- projects I run (not necessarily alone :D)
+  - Compass - Discord utility & 4fun bot
+  - DEO MAXX - Internet radio
+  - Dragons - Youtubers bedwars team
