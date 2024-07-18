@@ -5,8 +5,8 @@
 - football enjoyer
   - fav teams: Raków, Leverkusen, Barca
   - fav national team: Poland
-  - fav players: Ivan Lopez, Vladan Kovacevic, Cristiano Ronaldo (i know i'm crazy)
+  - fav players: Ivan Lopez, Vladan Kovacevic
 - projects I run (not necessarily alone :D)
   - Compass - Discord utility & 4fun bot
-  - DEO MAXX - Internet radio
+  - DEO MAXX/DEO FM - Internet radio
   - Dragons - Youtubers bedwars team
